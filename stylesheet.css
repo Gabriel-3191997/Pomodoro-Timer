@@ -1,0 +1,35 @@
+body{
+
+    background-color: white;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.container{
+    width: 50px;
+    height: 100vh;
+    background:rgb(18, 1, 31);
+}
+
+
+h1.text-center{
+
+    padding: 50px;
+    text-transform: capitalize;
+}
+
+.btn-primary[type = "button"]{
+    text-transform: capitalize;
+
+    border: none;
+    color: white;
+    background-color: rgba(149, 28, 236, 0.837);
+}
+
+h2#heading-two{
+
+    padding-top: 50px;
+    font: size 34px;
+}
